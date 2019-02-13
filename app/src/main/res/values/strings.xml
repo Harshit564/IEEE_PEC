@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IEEE PEC</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="feed">FEED</string>
+    <string name="title_activity_nav_drawer">Nav_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="IEEE_Events">
+        <item>Event1</item>
+        <item>Event2</item>
+        <item>Event3</item>
+        <item>Event4</item>
+        <item>Event5</item>
+        <item>Event6</item>
+        <item>Event7</item>
+        <item>Event8</item>
+        <item>Event9</item>
+        <item>Event10</item>
+
+    </string-array>
+</resources>
