@@ -36,6 +36,11 @@
                     app:menu="@menu/navigation_drawer" />
             </android.support.v4.widget.DrawerLayout>
         </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/botbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true">
 
 
 
@@ -52,6 +57,7 @@
 
 
 
+</RelativeLayout>
     </RelativeLayout>
 
 
